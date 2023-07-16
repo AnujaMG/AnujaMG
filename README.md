@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @AnujaMG
-- 👀 I’m interested in  Software Development  
-- 🌱 I’m currently learning Information Technology Degree
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there 
+I'm Anuja Mahagamage
+'I Don’t Suffer From Insanity. I Enjoy Every Minute Of It.'
+👨‍💻
+I'm Anuja Mahagamage, I'm 20 years old  from Sri Lanka. I'm currently a Information Technology student at KDU Southern Campus. Also I'm doing Vedio editing and  
+ Photo editing.
 
-<!---
-AnujaMG/AnujaMG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I like Programing  and I'm always Searching for new platform to learn more.On these days I am working on a few projects.
+
+Thankyou!
